@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\Proyectos\POOI_Semana01_Sesion01\POOI_Semana01_Sesion01\bin\Debug\POOI_Semana01_Sesion01.exe.config
+C:\Users\USUARIO\Desktop\Proyectos\POOI_Semana01_Sesion01\POOI_Semana01_Sesion01\bin\Debug\POOI_Semana01_Sesion01.exe
+C:\Users\USUARIO\Desktop\Proyectos\POOI_Semana01_Sesion01\POOI_Semana01_Sesion01\bin\Debug\POOI_Semana01_Sesion01.pdb
+C:\Users\USUARIO\Desktop\Proyectos\POOI_Semana01_Sesion01\POOI_Semana01_Sesion01\obj\Debug\POOI_Semana01_Sesion01.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Proyectos\POOI_Semana01_Sesion01\POOI_Semana01_Sesion01\obj\Debug\POOI_Semana01_Sesion01.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Proyectos\POOI_Semana01_Sesion01\POOI_Semana01_Sesion01\obj\Debug\POOI_Semana01_Sesion01.exe
+C:\Users\USUARIO\Desktop\Proyectos\POOI_Semana01_Sesion01\POOI_Semana01_Sesion01\obj\Debug\POOI_Semana01_Sesion01.pdb
